@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-practica-movie-api",
+  "version": "1.0.0",
+  "description": "aprender a consumir api en una app de peliculas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipesito1/proyecto-practica-movie-api.git"
+  },
+  "author": "@pipesepulveda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipesito1/proyecto-practica-movie-api/issues"
+  },
+  "homepage": "https://github.com/pipesito1/proyecto-practica-movie-api#readme"
+}
